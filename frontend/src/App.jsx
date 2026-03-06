@@ -1,4 +1,4 @@
-import ProtectedRoute from "./components/protectedRoute.jsx";
+import ProtectedRoute from "./components/ProtectedRoute.jsx";
 import { useState, useEffect } from "react";
 import "./App.css";
 import { FaInstagram } from "react-icons/fa";
