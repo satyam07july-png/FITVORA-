@@ -5,11 +5,11 @@ import { FaInstagram } from "react-icons/fa";
 import { SiZomato, SiSwiggy } from "react-icons/si";
 import { Routes, Route, Link } from "react-router-dom";
 import Login from "./pages/Login.jsx";
-import Profile from "./pages/profile.jsx";
+import Profile from "./pages/Profile.jsx";
 import Register from "./pages/Register.jsx";
 import OrderHistory from "./pages/OrderHistory.jsx";
 import AdminDashboard from "./pages/AdminDashboard.jsx";
-import Success from "./pages/success.jsx";
+import Success from "./pages/Success.jsx";
 import { io } from "socket.io-client";
 import { useNavigate } from "react-router-dom";
 
