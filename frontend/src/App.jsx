@@ -9,7 +9,7 @@ import Profile from "./pages/Profile.jsx";
 import Register from "./pages/Register.jsx";
 import OrderHistory from "./pages/OrderHistory.jsx";
 import AdminDashboard from "./pages/AdminDashboard.jsx";
-import Success from "./pages/Success.jsx";
+import Success from "./pages/success.jsx";
 import { io } from "socket.io-client";
 import { useNavigate } from "react-router-dom";
 
