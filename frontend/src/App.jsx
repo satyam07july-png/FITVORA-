@@ -4,7 +4,7 @@ import "./App.css";
 import { FaInstagram } from "react-icons/fa";
 import { SiZomato, SiSwiggy } from "react-icons/si";
 import { Routes, Route, Link } from "react-router-dom";
-import Login from "./pages/login.jsx";
+import Login from "./pages/Login.jsx";
 import Profile from "./pages/profile.jsx";
 import Register from "./pages/Register.jsx";
 import OrderHistory from "./pages/OrderHistory.jsx";
